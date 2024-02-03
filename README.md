@@ -1,4 +1,4 @@
-# Concrete Compressive Strength Calculator
+# Cement Compressive Strength Calculator
 #### Cement Compressive Strength Calculator in (MPa, megapascals) unit using real life parameters.
 
 
