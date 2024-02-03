@@ -1,5 +1,5 @@
 # Cement Compressive Strength Calculator
-#### Cement Compressive Strength Calculator in (MPa, megapascals) unit using real life parameters.
+#### A Machine Learning Solution to Calculate Cement Compressive Strength in (MPa, megapascals) unit using real-life parameters.
 
 
 SET-UP:
